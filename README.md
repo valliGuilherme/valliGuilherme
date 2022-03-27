@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @valliGuilherme
+- 👀 I’m interested in Front-end web development
+- 🌱 I’m currently learning JavaScript, HTML and CSS
+- 💞️ I'm looking for an internship in programming
+- 📫 How to reach me: valli.guilherme@gmail.com, (12) 98180-8655
